@@ -1,0 +1,6 @@
+Back 
+        Package.json 
+        npm i -g json-server
+        
+Front
+        Package.json 

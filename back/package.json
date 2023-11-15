@@ -1,0 +1,17 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "Api para consumir desde react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json": "json-server --watch database.json"
+  },
+  "keywords": [
+    "Api",
+    "Javascript",
+    "Node.js"
+  ],
+  "author": "Boris Fernandez",
+  "license": "ISC"
+}

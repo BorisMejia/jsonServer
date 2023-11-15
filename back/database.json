@@ -1,0 +1,448 @@
+{
+  "peliculas": [
+    [{
+        "id": 1,
+        "nombre": "Weddings and Babies ",
+        "año": 1992,
+        "clasificacion": "+15",
+        "calificacion": 5,
+        "idGenero": 7,
+        "description": "Synovial hypertrophy, not elsewhere classified, left hand"
+      }, {
+        "id": 2,
+        "nombre": "Maria",
+        "año": 2009,
+        "clasificacion": "+12",
+        "calificacion": 4,
+        "idGenero": 3,
+        "description": "Legal intervnt w unsp gas, law enforc offl injured, subs"
+      }, {
+        "id": 3,
+        "nombre": "Cobweb, The",
+        "año": 2013,
+        "clasificacion": "+15",
+        "calificacion": 3,
+        "idGenero": 9,
+        "description": "Nondisp seg fx shaft of l femur, init for opn fx type 3A/B/C"
+      }, {
+        "id": 4,
+        "nombre": "Precision: The Measure of All Things",
+        "año": 2009,
+        "clasificacion": "+15",
+        "calificacion": 3,
+        "idGenero": 7,
+        "description": "Drug-induced myopathy"
+      }, {
+        "id": 5,
+        "nombre": "Janky Promoters, The",
+        "año": 2012,
+        "clasificacion": "+15",
+        "calificacion": 1,
+        "idGenero": 2,
+        "description": "Displacement of int fix of left femur, sequela"
+      }, {
+        "id": 6,
+        "nombre": "Deep Blue",
+        "año": 1996,
+        "clasificacion": "+12",
+        "calificacion": 4,
+        "idGenero": 5,
+        "description": "Displaced dome fx left talus, subs for fx w routn heal"
+      }, {
+        "id": 7,
+        "nombre": "Jin Roh: The Wolf Brigade (Jin-Rô)",
+        "año": 2003,
+        "clasificacion": "+12",
+        "calificacion": 2,
+        "idGenero": 7,
+        "description": "Exophthalmic conditions"
+      }, {
+        "id": 8,
+        "nombre": "Bicycle, Spoon, Apple (Bicicleta, cullera, poma)",
+        "año": 2007,
+        "clasificacion": "+18",
+        "calificacion": 3,
+        "idGenero": 7,
+        "description": "Burn of larynx and trachea, initial encounter"
+      }, {
+        "id": 9,
+        "nombre": "Spooner",
+        "año": 2019,
+        "clasificacion": "todo publico",
+        "calificacion": 5,
+        "idGenero": 3,
+        "description": "Underdosing of antiparkns drug/centr muscle-tone depr, init"
+      }, {
+        "id": 10,
+        "nombre": "Nothing to Lose",
+        "año": 1999,
+        "clasificacion": "todo publico",
+        "calificacion": 5,
+        "idGenero": 4,
+        "description": "Adult physical abuse, suspected"
+      }, {
+        "id": 11,
+        "nombre": "Night in the Life of Jimmy Reardon, A",
+        "año": 2015,
+        "clasificacion": "+18",
+        "calificacion": 1,
+        "idGenero": 4,
+        "description": "Corros 80-89% of body surface w 50-59% third degree corros"
+      }, {
+        "id": 12,
+        "nombre": "Mothra (Mosura)",
+        "año": 1995,
+        "clasificacion": "+12",
+        "calificacion": 2,
+        "idGenero": 8,
+        "description": "Other fracture of left patella, sequela"
+      }, {
+        "id": 13,
+        "nombre": "Adventures of Buckaroo Banzai Across the 8th Dimension, The",
+        "año": 1994,
+        "clasificacion": "+15",
+        "calificacion": 1,
+        "idGenero": 2,
+        "description": "Toxic effect of other metals, undetermined, subs encntr"
+      }, {
+        "id": 14,
+        "nombre": "Magician, The (Ansiktet)",
+        "año": 2009,
+        "clasificacion": "+12",
+        "calificacion": 5,
+        "idGenero": 6,
+        "description": "Disp fx of proximal phalanx of left middle finger, init"
+      }, {
+        "id": 15,
+        "nombre": "New Country, The (Det nya landet)",
+        "año": 1999,
+        "clasificacion": "todo publico",
+        "calificacion": 3,
+        "idGenero": 2,
+        "description": "Other bursal cyst, hip"
+      }, {
+        "id": 16,
+        "nombre": "Full Moon High",
+        "año": 2019,
+        "clasificacion": "+12",
+        "calificacion": 2,
+        "idGenero": 7,
+        "description": "Hodgkin lymphoma, unspecified, intrathoracic lymph nodes"
+      }, {
+        "id": 17,
+        "nombre": "Confessions of a Window Cleaner",
+        "año": 2003,
+        "clasificacion": "+15",
+        "calificacion": 5,
+        "idGenero": 6,
+        "description": "Pressr ulc of contig site of back, buttock and hip, unsp stg"
+      }, {
+        "id": 18,
+        "nombre": "Better Housekeeping (a.k.a. Good Housekeeping)",
+        "año": 2000,
+        "clasificacion": "+12",
+        "calificacion": 2,
+        "idGenero": 4,
+        "description": "NB aff by oth and unsp morpholog and functn abnlt of plcnta"
+      }, {
+        "id": 19,
+        "nombre": "Student Prince in Old Heidelberg, The",
+        "año": 1995,
+        "clasificacion": "+15",
+        "calificacion": 5,
+        "idGenero": 3,
+        "description": "Inj flexor musc/fasc/tend unsp finger at forearm level"
+      }, {
+        "id": 20,
+        "nombre": "This Is the End",
+        "año": 1998,
+        "clasificacion": "+12",
+        "calificacion": 5,
+        "idGenero": 9,
+        "description": "Oth fracture of unsp lower leg, subs for clos fx w nonunion"
+      }, {
+        "id": 21,
+        "nombre": "Black Tar Heroin: The Dark End of the Street",
+        "año": 2011,
+        "clasificacion": "+15",
+        "calificacion": 2,
+        "idGenero": 3,
+        "description": "Chronic osteomyelitis w draining sinus, unsp ankle and foot"
+      }, {
+        "id": 22,
+        "nombre": "Frisco Kid, The",
+        "año": 2008,
+        "clasificacion": "+15",
+        "calificacion": 5,
+        "idGenero": 2,
+        "description": "Displ longitud fx l patella, 7thR"
+      }, {
+        "id": 23,
+        "nombre": "Pit and the Pendulum, The",
+        "año": 2014,
+        "clasificacion": "todo publico",
+        "calificacion": 5,
+        "idGenero": 6,
+        "description": "Nontraumatic ischemic infarction of muscle, unsp forearm"
+      }, {
+        "id": 24,
+        "nombre": "Chaos",
+        "año": 2011,
+        "clasificacion": "+12",
+        "calificacion": 1,
+        "idGenero": 6,
+        "description": "Laceration with foreign body of unspecified part of head"
+      }, {
+        "id": 25,
+        "nombre": "Tie Me Up! Tie Me Down! (¡Átame!)",
+        "año": 2003,
+        "clasificacion": "+15",
+        "calificacion": 4,
+        "idGenero": 7,
+        "description": "Ped w convey injured in collision w pedl cyc, unsp, subs"
+      }, {
+        "id": 26,
+        "nombre": "Home of Our Own, A",
+        "año": 2014,
+        "clasificacion": "+15",
+        "calificacion": 1,
+        "idGenero": 4,
+        "description": "Other recurrent vertebral dislocation"
+      }, {
+        "id": 27,
+        "nombre": "Beer for My Horses",
+        "año": 2005,
+        "clasificacion": "+12",
+        "calificacion": 3,
+        "idGenero": 7,
+        "description": "Disp fx of base of 4th MC bone, r hand, 7thP"
+      }, {
+        "id": 28,
+        "nombre": "Bond Girls Are Forever",
+        "año": 2009,
+        "clasificacion": "+15",
+        "calificacion": 3,
+        "idGenero": 2,
+        "description": "Hit by falling object due to acc to fishing boat, sequela"
+      }, {
+        "id": 29,
+        "nombre": "Frozen Planet",
+        "año": 2007,
+        "clasificacion": "todo publico",
+        "calificacion": 5,
+        "idGenero": 4,
+        "description": "Posterior disloc of proximal end of tibia, left knee, subs"
+      }, {
+        "id": 30,
+        "nombre": "Jazz",
+        "año": 2005,
+        "clasificacion": "+12",
+        "calificacion": 1,
+        "idGenero": 8,
+        "description": "Other exposure to forces of nature"
+      }, {
+        "id": 31,
+        "nombre": "Boys Life",
+        "año": 2011,
+        "clasificacion": "todo publico",
+        "calificacion": 5,
+        "idGenero": 3,
+        "description": "Unsp injury of musc/fasc/tend triceps, right arm, subs"
+      }, {
+        "id": 32,
+        "nombre": "Edward, My Son",
+        "año": 1992,
+        "clasificacion": "+18",
+        "calificacion": 2,
+        "idGenero": 8,
+        "description": "Anterior dislocation of left sternoclavicular joint"
+      }, {
+        "id": 33,
+        "nombre": "Immigrant, The",
+        "año": 1991,
+        "clasificacion": "+15",
+        "calificacion": 1,
+        "idGenero": 3,
+        "description": "Rupture in Descemet's membrane, bilateral"
+      }, {
+        "id": 34,
+        "nombre": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "año": 2021,
+        "clasificacion": "+12",
+        "calificacion": 2,
+        "idGenero": 8,
+        "description": "Poisoning by beta-adrenocpt antag, accidental, sequela"
+      }, {
+        "id": 35,
+        "nombre": "Little Ashes",
+        "año": 2023,
+        "clasificacion": "+15",
+        "calificacion": 4,
+        "idGenero": 7,
+        "description": "Chlamydial infection of pharynx"
+      }, {
+        "id": 36,
+        "nombre": "Santa's Apprentice",
+        "año": 2016,
+        "clasificacion": "+18",
+        "calificacion": 1,
+        "idGenero": 4,
+        "description": "Nondisp fx of ant process of r calcaneus, init for opn fx"
+      }, {
+        "id": 37,
+        "nombre": "Holding, The",
+        "año": 2002,
+        "clasificacion": "+18",
+        "calificacion": 4,
+        "idGenero": 4,
+        "description": "Contusion of right ear, subsequent encounter"
+      }, {
+        "id": 38,
+        "nombre": "Rosario Tijeras",
+        "año": 2002,
+        "clasificacion": "+18",
+        "calificacion": 5,
+        "idGenero": 5,
+        "description": "Oth chronic hematogenous osteomyelitis, unsp radius and ulna"
+      }, {
+        "id": 39,
+        "nombre": "Kippur",
+        "año": 1991,
+        "clasificacion": "+18",
+        "calificacion": 4,
+        "idGenero": 4,
+        "description": "Diabetes insipidus"
+      }, {
+        "id": 40,
+        "nombre": "Dr. Dolittle 2",
+        "año": 2004,
+        "clasificacion": "+12",
+        "calificacion": 4,
+        "idGenero": 5,
+        "description": "Poisn by unsp antieplptc and sed-hypntc drugs, acc, init"
+      }, {
+        "id": 41,
+        "nombre": "Carefree",
+        "año": 2023,
+        "clasificacion": "+18",
+        "calificacion": 4,
+        "idGenero": 6,
+        "description": "Ped on sktbrd injured in collision w 2/3-whl mv, unsp, init"
+      }, {
+        "id": 42,
+        "nombre": "Battle Cry",
+        "año": 2020,
+        "clasificacion": "+18",
+        "calificacion": 3,
+        "idGenero": 7,
+        "description": "Mediastinal (thymic) large B-cell lymphoma, intra-abd nodes"
+      }, {
+        "id": 43,
+        "nombre": "Landet som icke är",
+        "año": 2016,
+        "clasificacion": "+18",
+        "calificacion": 5,
+        "idGenero": 5,
+        "description": "Nutritional optic neuropathy"
+      }, {
+        "id": 44,
+        "nombre": "Time Limit",
+        "año": 2018,
+        "clasificacion": "+12",
+        "calificacion": 5,
+        "idGenero": 1,
+        "description": "Poisn by centr-acting/adren-neurn-block agnt, asslt, sequela"
+      }, {
+        "id": 45,
+        "nombre": "Rammbock",
+        "año": 2007,
+        "clasificacion": "todo publico",
+        "calificacion": 2,
+        "idGenero": 4,
+        "description": "Lead-induced chronic gout, left wrist, with tophus (tophi)"
+      }, {
+        "id": 46,
+        "nombre": "Vinyl",
+        "año": 1998,
+        "clasificacion": "+12",
+        "calificacion": 3,
+        "idGenero": 6,
+        "description": "Nondisp fx of lateral epicondyl of l humer, 7thG"
+      }, {
+        "id": 47,
+        "nombre": "The Real Glory",
+        "año": 1991,
+        "clasificacion": "+12",
+        "calificacion": 5,
+        "idGenero": 2,
+        "description": "Neonatal jaundice due to swallowed maternal blood"
+      }, {
+        "id": 48,
+        "nombre": "The Golden Eye",
+        "año": 2013,
+        "clasificacion": "todo publico",
+        "calificacion": 2,
+        "idGenero": 3,
+        "description": "Fx unsp part of nk of l femr, subs for clos fx w routn heal"
+      }, {
+        "id": 49,
+        "nombre": "Magical Mystery Tour",
+        "año": 2020,
+        "clasificacion": "+15",
+        "calificacion": 1,
+        "idGenero": 9,
+        "description": "Milt op w dest arcrft d/t acc deton onbrd munit, milt, subs"
+      }, {
+        "id": 50,
+        "nombre": "Night Train",
+        "año": 2020,
+        "clasificacion": "+12",
+        "calificacion": 1,
+        "idGenero": 9,
+        "description": "Idiopathic hypotension"
+      }]
+    
+  ],
+  "generos": 
+    [{
+        "id": 1,
+        "nombre": "Cecil B. DeMented",
+        "description": "Non-pressure chronic ulcer of left calf with unsp severity"
+      }, {
+        "id": 2,
+        "nombre": "Artist, The (El Artista)",
+        "description": "Other sprain of unspecified thumb, subsequent encounter"
+      }, {
+        "id": 3,
+        "nombre": "Zatoichi and the Doomed Man (Zatôichi sakate giri) (Zatôichi 11)",
+        "description": "Other specified injuries of thorax, sequela"
+      }, {
+        "id": 4,
+        "nombre": "Adam Had Four Sons",
+        "description": "Holiday relief care"
+      }, {
+        "id": 5,
+        "nombre": "Oliver Twist",
+        "description": "Cyst of unspecified orbit"
+      }, {
+        "id": 6,
+        "nombre": "Sum of All Fears, The",
+        "description": "External constriction of left forearm, initial encounter"
+      }, {
+        "id": 7,
+        "nombre": "Black Magic (Meeting at Midnight) (Charlie Chan in Meeting at Midnight) (Charlie Chan in Black Magic)",
+        "description": "Complete lesion of L3 level of lumbar spinal cord, init"
+      }, {
+        "id": 8,
+        "nombre": "Broken Sky (El cielo dividido)",
+        "description": "Unspecified nonsuppurative otitis media"
+      }, {
+        "id": 9,
+        "nombre": "House of Sand and Fog",
+        "description": "Immersion foot, unspecified foot, initial encounter"
+      }, {
+        "id": 10,
+        "nombre": "He Loves Me... He Loves Me Not (À la folie... pas du tout)",
+        "description": "Traumatic rupture of ligament of r mid finger at MCP/IP jt"
+      }]
+}
