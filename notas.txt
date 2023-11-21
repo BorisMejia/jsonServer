@@ -1,6 +1,15 @@
-Back 
+Back:
         Package.json 
         npm i -g json-server
         
-Front
+Front:
         Package.json 
+Comandos para crear un componente rapido:
+                                        rafce
+Routing:
+        menejo de rutas y redirccion de componentes
+     Endpoints:
+              Identificador de las rutas
+     react-router-dom:
+     createBrowserRouter -> Crear las rutas de navegacion
+     RouterProvider -> Enviar las rutas a los componentes

@@ -1,6 +1,6 @@
 {
   "peliculas": [
-    [{
+    {
         "id": 1,
         "nombre": "Weddings and Babies ",
         "año": 1992,
@@ -400,11 +400,10 @@
         "calificacion": 1,
         "idGenero": 9,
         "description": "Idiopathic hypotension"
-      }]
-    
-  ],
-  "generos": 
-    [{
+      }
+    ],
+  "generos":[
+      {
         "id": 1,
         "nombre": "Cecil B. DeMented",
         "description": "Non-pressure chronic ulcer of left calf with unsp severity"
@@ -444,5 +443,6 @@
         "id": 10,
         "nombre": "He Loves Me... He Loves Me Not (À la folie... pas du tout)",
         "description": "Traumatic rupture of ligament of r mid finger at MCP/IP jt"
-      }]
+      }
+    ]
 }
