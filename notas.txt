@@ -13,3 +13,10 @@ Routing:
      react-router-dom:
      createBrowserRouter -> Crear las rutas de navegacion
      RouterProvider -> Enviar las rutas a los componentes
+
+Consumo de API
+-Definir dependencias
+        -axios
+        -bootstrap
+        -Sweetalert2
+        -

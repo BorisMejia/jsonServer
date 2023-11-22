@@ -1,23 +1,11 @@
 import {createBrowserRouter,RouterProvider} from 'react-router-dom'
-import Home from './components/Home'
-import ListarPeliculas from './components/movies/ListarPeliculas'
-import ErrorNotFound from './components/helpers/ErrorNotFound'
-let router = createBrowserRouter([
-  {
-    path: '/',
-    element: <Home/>
-  },
-  {
-    path: '/peliculas',
-    element: <ListarPeliculas/>,
-    errorElement: <ErrorNotFound/>
-  }
-])
+import {rutasMenu} from './components/routes/rutasMenu'
+let router = createBrowserRouter(rutasMenu)
 
 function App() {
 
   return (
-    <section>
+    <section className='container'>
         <RouterProvider router={router}/>
     </section>
   )
