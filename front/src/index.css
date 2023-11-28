@@ -45,3 +45,16 @@ header nav a{
   background-color: rgb(115, 50, 176);
   color: white;
 }
+.cards{
+  padding: 10px;
+  gap: 20px;
+}
+.card{
+width: 200px;
+height: 250px;
+}
+.peliculas{
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+}
