@@ -1,15 +1,21 @@
-import Home from "../Home";
-import ErrorNotFound from "../helpers/ErrorNotFound";
-import ListarPeliculas from "../movies/ListarPeliculas";
-
-export let rutasMenu = [
+import Home from '../Home'
+import ErrorNotFound from '../helpers/ErrorNotFound'
+import CrearPelicula from '../movies/CrearPeliculas'
+import ListarPeliculas from '../movies/ListarPeliculas'
+let rutasMenu = [
     {
-      path: '/',
-      element: <Home/>
+        path: '/',
+        element: <Home />,
+        errorElement: <ErrorNotFound />
     },
     {
-      path: '/peliculas',
-      element: <ListarPeliculas/>,
-      errorElement: <ErrorNotFound/>
+        path: '/peliculas',
+        element: <ListarPeliculas />
+    },
+    {
+        path: '/crear',
+        element: <CrearPelicula/>
     }
-]  
+]
+
+export default rutasMenu

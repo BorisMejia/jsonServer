@@ -1,5 +1,5 @@
 import {createBrowserRouter,RouterProvider} from 'react-router-dom'
-import {rutasMenu} from './components/routes/rutasMenu'
+import rutasMenu from '/src/components/routes/rutasMenu.jsx'
 let router = createBrowserRouter(rutasMenu)
 
 function App() {
