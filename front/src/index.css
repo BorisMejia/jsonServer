@@ -149,4 +149,17 @@ button:hover {
   padding: 1%;
   text-decoration: none;
   border-radius: 10%;
+  z-index: 20;
+}
+.btn-link a{
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  margin: 5px;
+  text-decoration: none;
+
 }

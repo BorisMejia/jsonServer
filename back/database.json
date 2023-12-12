@@ -28,15 +28,6 @@
       "description": "Nondisp seg fx shaft of l femur, init for opn fx type 3A/B/C"
     },
     {
-      "id": 4,
-      "nombre": "Precision: The Measure of All Things",
-      "año": 2009,
-      "clasificacion": "+15",
-      "calificacion": 3,
-      "idGenero": 7,
-      "description": "Drug-induced myopathy"
-    },
-    {
       "id": 5,
       "nombre": "Janky Promoters, The",
       "año": 2012,
@@ -53,15 +44,6 @@
       "calificacion": 4,
       "idGenero": 5,
       "description": "Displaced dome fx left talus, subs for fx w routn heal"
-    },
-    {
-      "id": 7,
-      "nombre": "Jin Roh: The Wolf Brigade (Jin-Rô)",
-      "año": 2003,
-      "clasificacion": "+12",
-      "calificacion": 2,
-      "idGenero": 7,
-      "description": "Exophthalmic conditions"
     },
     {
       "id": 8,
@@ -415,15 +397,6 @@
       "description": "Nondisp fx of lateral epicondyl of l humer, 7thG"
     },
     {
-      "id": 47,
-      "nombre": "The Real Glory",
-      "año": 1991,
-      "clasificacion": "+12",
-      "calificacion": 5,
-      "idGenero": 2,
-      "description": "Neonatal jaundice due to swallowed maternal blood"
-    },
-    {
       "id": 48,
       "nombre": "The Golden Eye",
       "año": 2013,
@@ -442,15 +415,6 @@
       "description": "Milt op w dest arcrft d/t acc deton onbrd munit, milt, subs"
     },
     {
-      "id": 50,
-      "nombre": "Night Train",
-      "año": 2020,
-      "clasificacion": "+12",
-      "calificacion": 1,
-      "idGenero": 9,
-      "description": "Idiopathic hypotension"
-    },
-    {
       "id": "eec311a5-384f-477a-a87e-7243e74fe675",
       "nombre": "sdasd",
       "calificacion": "sadsadsa",
@@ -458,33 +422,6 @@
       "anio": "sadsad",
       "Descripcion": "asdsad",
       "idGenero": "5"
-    },
-    {
-      "id": "661c6b7c-4a74-4c18-9626-9e4a271da29b",
-      "nombre": "",
-      "calificacion": "",
-      "clasifiacion": "",
-      "anio": "",
-      "Descripcion": "",
-      "idGenero": "9"
-    },
-    {
-      "id": "6766ee00-969a-4f9e-bbc8-3859b86fc52b",
-      "nombre": "1",
-      "calificacion": "1",
-      "clasifiacion": "1",
-      "anio": "1",
-      "Descripcion": "1",
-      "idGenero": "9"
-    },
-    {
-      "id": "9322a664-b311-484e-82f6-88da27cd91cb",
-      "nombre": "",
-      "calificacion": "",
-      "clasifiacion": "",
-      "anio": "",
-      "Descripcion": "",
-      "idGenero": "3"
     }
   ],
   "generos": [

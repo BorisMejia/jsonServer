@@ -9,7 +9,7 @@ const CrearPelicula = () => {
   const [calificacion,setCalificacion]= useState('')
   const [clasifiacion,setClasificacion]= useState('')
   const [anio,setAnio]= useState('')
-  const [Descripcion,setDescripcion]= useState('')
+  const [descripcion,setDescripcion]= useState('')
   const [peliculas, setPeliculas] = useState([]);
   let redireccion = useNavigate()
 
@@ -27,7 +27,7 @@ const CrearPelicula = () => {
   calificacion,
   clasifiacion,
   anio,
-  Descripcion,
+  descripcion,
   idGenero: (Math.random()*10).toFixed(0)
  })
  
